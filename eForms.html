@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Provider Search</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Pesquisar Cliente</h1>
+      <form id="providerForm">
+        <div class="container">
+          <label for="filter">Pesquisar:</label>
+          <input id="filter" name="filter" type="text" />
+          <button id="search_button" class="btn btn-primary">Submeter</button>
+        </div>
+
+        <hr />
+
+        <h1>Informação do Cliente</h1>
+        <div class="form-group">
+          <label for="nomeDaEmpresa">Nome da Empresa</label>
+          <input type="text" class="form-control" id="nomeDaEmpresa" readonly />
+        </div>
+        <div class="form-group">
+          <label for="cnpj">CNPJ:</label>
+          <input type="text" class="form-control" id="cnpj" readonly />
+        </div>
+        <div class="form-group">
+          <label for="endereco">Endereço:</label>
+          <input type="text" class="form-control" id="endereco" readonly />
+        </div>
+        <div class="form-group">
+          <label for="cidade">Cidade:</label>
+          <input type="text" class="form-control" id="cidade" readonly />
+        </div>
+        <div class="form-group">
+          <label for="estado">Estado:</label>
+          <input type="text" class="form-control" id="estado" readonly />
+        </div>
+        <div class="form-group">
+          <label for="cep">CEP:</label>
+          <input type="text" class="form-control" id="cep" readonly />
+        </div>
+        <div class="form-group">
+          <label for="nomeDoRepresentante">Nome do Representante:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="nomeDoRepresentante"
+            readonly
+          />
+        </div>
+        <div class="form-group">
+          <label for="emailDoRepresentante">E-mail do Representante:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="emailDoRepresentante"
+            readonly
+          />
+        </div>
+      </form>
+    </div>
+
+    <script>
+      $(document).ready(function () {
+        $("#search_button").click(function (event) {
+          event.preventDefault(); // prevent the form from being submitted
+          var filter = $("#filter").val();
+          $.getJSON(
+            `http://localhost:3000/providers/search?filter=${filter}`,
+            function (data) {
+              if (data.length > 0) {
+                var provider = data[0];
+                $("#nomeDaEmpresa").val(provider.nomeDaEmpresa);
+                $("#cnpj").val(provider.cnpj);
+                $("#endereco").val(provider.endereco);
+                $("#cidade").val(provider.cidade);
+                $("#estado").val(provider.estado);
+                $("#cep").val(provider.cep);
+                $("#nomeDoRepresentante").val(provider.nomeDoRepresentante);
+                $("#emailDoRepresentante").val(provider.emailDoRepresentante);
+              }
+            }
+          );
+        });
+      });
+    </script>
+  </body>
+</html>

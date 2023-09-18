@@ -1,0 +1,274 @@
+{
+  "providers": [
+    {
+      "nomeDaEmpresa": "Alpha",
+      "cnpj": "00.000.000/0001-01",
+      "endereco": "Rua Alpha, 1",
+      "cidade": "Alpha City",
+      "estado": "AL",
+      "cep": "01010-001",
+      "nomeDoRepresentante": "João Alpha",
+      "emailDoRepresentante": "taka.docusign+alpha@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Bravo",
+      "cnpj": "00.000.000/0002-02",
+      "endereco": "Rua Bravo, 2",
+      "cidade": "Bravo City",
+      "estado": "BA",
+      "cep": "02020-002",
+      "nomeDoRepresentante": "Maria Bravo",
+      "emailDoRepresentante": "taka.docusign+bravo@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Charlie",
+      "cnpj": "00.000.000/0003-03",
+      "endereco": "Rua Charlie, 3",
+      "cidade": "Charlie City",
+      "estado": "CE",
+      "cep": "03030-003",
+      "nomeDoRepresentante": "Pedro Charlie",
+      "emailDoRepresentante": "taka.docusign+charlie@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Delta",
+      "cnpj": "00.000.000/0004-04",
+      "endereco": "Rua Delta, 4",
+      "cidade": "Delta City",
+      "estado": "DF",
+      "cep": "04040-004",
+      "nomeDoRepresentante": "Carlos Delta",
+      "emailDoRepresentante": "taka.docusign+delta@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Echo",
+      "cnpj": "00.000.000/0005-05",
+      "endereco": "Rua Echo, 5",
+      "cidade": "Echo City",
+      "estado": "ES",
+      "cep": "05050-005",
+      "nomeDoRepresentante": "Ana Echo",
+      "emailDoRepresentante": "taka.docusign+echo@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Foxtrot",
+      "cnpj": "00.000.000/0006-06",
+      "endereco": "Rua Foxtrot, 6",
+      "cidade": "Foxtrot City",
+      "estado": "GO",
+      "cep": "06060-006",
+      "nomeDoRepresentante": "Rafael Foxtrot",
+      "emailDoRepresentante": "taka.docusign+foxtrot@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Golf",
+      "cnpj": "00.000.000/0007-07",
+      "endereco": "Rua Golf, 7",
+      "cidade": "Golf City",
+      "estado": "MA",
+      "cep": "07070-007",
+      "nomeDoRepresentante": "Mariana Golf",
+      "emailDoRepresentante": "taka.docusign+golf@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Hotel",
+      "cnpj": "00.000.000/0008-08",
+      "endereco": "Rua Hotel, 8",
+      "cidade": "Hotel City",
+      "estado": "MT",
+      "cep": "08080-008",
+      "nomeDoRepresentante": "Lucas Hotel",
+      "emailDoRepresentante": "taka.docusign+hotel@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "India",
+      "cnpj": "00.000.000/0009-09",
+      "endereco": "Rua India, 9",
+      "cidade": "India City",
+      "estado": "MS",
+      "cep": "09090-009",
+      "nomeDoRepresentante": "Camila India",
+      "emailDoRepresentante": "taka.docusign+india@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Juliet",
+      "cnpj": "00.000.000/0010-10",
+      "endereco": "Rua Juliet, 10",
+      "cidade": "Juliet City",
+      "estado": "MG",
+      "cep": "10100-010",
+      "nomeDoRepresentante": "Felipe Juliet",
+      "emailDoRepresentante": "taka.docusign+juliet@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Kilo",
+      "cnpj": "00.000.000/0011-11",
+      "endereco": "Rua Kilo, 11",
+      "cidade": "Kilo City",
+      "estado": "PA",
+      "cep": "11110-011",
+      "nomeDoRepresentante": "Renata Kilo",
+      "emailDoRepresentante": "taka.docusign+kilo@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Lima",
+      "cnpj": "00.000.000/0012-12",
+      "endereco": "Rua Lima, 12",
+      "cidade": "Lima City",
+      "estado": "PB",
+      "cep": "12120-012",
+      "nomeDoRepresentante": "Gustavo Lima",
+      "emailDoRepresentante": "taka.docusign+lima@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Mike",
+      "cnpj": "00.000.000/0013-13",
+      "endereco": "Rua Mike, 13",
+      "cidade": "Mike City",
+      "estado": "PE",
+      "cep": "13130-013",
+      "nomeDoRepresentante": "Vanessa Mike",
+      "emailDoRepresentante": "taka.docusign+mike@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "November",
+      "cnpj": "00.000.000/0014-14",
+      "endereco": "Rua November, 14",
+      "cidade": "November City",
+      "estado": "PI",
+      "cep": "14140-014",
+      "nomeDoRepresentante": "Tiago November",
+      "emailDoRepresentante": "taka.docusign+november@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Oscar",
+      "cnpj": "00.000.000/0015-15",
+      "endereco": "Rua Oscar, 15",
+      "cidade": "Oscar City",
+      "estado": "PR",
+      "cep": "15150-015",
+      "nomeDoRepresentante": "Isabela Oscar",
+      "emailDoRepresentante": "taka.docusign+oscar@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Papa",
+      "cnpj": "00.000.000/0016-16",
+      "endereco": "Rua Papa, 16",
+      "cidade": "Papa City",
+      "estado": "PE",
+      "cep": "16160-016",
+      "nomeDoRepresentante": "Marcelo Papa",
+      "emailDoRepresentante": "taka.docusign+papa@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Quebec",
+      "cnpj": "00.000.000/0017-17",
+      "endereco": "Rua Quebec, 17",
+      "cidade": "Quebec City",
+      "estado": "RJ",
+      "cep": "17170-017",
+      "nomeDoRepresentante": "Carolina Quebec",
+      "emailDoRepresentante": "taka.docusign+quebec@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Romeo",
+      "cnpj": "00.000.000/0018-18",
+      "endereco": "Rua Romeo, 18",
+      "cidade": "Romeo City",
+      "estado": "RN",
+      "cep": "18180-018",
+      "nomeDoRepresentante": "Luciana Romeo",
+      "emailDoRepresentante": "taka.docusign+romeo@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Sierra",
+      "cnpj": "00.000.000/0019-19",
+      "endereco": "Rua Sierra, 19",
+      "cidade": "Sierra City",
+      "estado": "RS",
+      "cep": "19190-019",
+      "nomeDoRepresentante": "André Sierra",
+      "emailDoRepresentante": "taka.docusign+sierra@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Tango",
+      "cnpj": "00.000.000/0020-20",
+      "endereco": "Rua Tango, 20",
+      "cidade": "Tango City",
+      "estado": "RO",
+      "cep": "20200-020",
+      "nomeDoRepresentante": "Beatriz Tango",
+      "emailDoRepresentante": "taka.docusign+tango@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Uniform",
+      "cnpj": "00.000.000/0021-21",
+      "endereco": "Rua Uniform, 21",
+      "cidade": "Uniform City",
+      "estado": "SC",
+      "cep": "21210-021",
+      "nomeDoRepresentante": "Rodrigo Uniform",
+      "emailDoRepresentante": "taka.docusign+uniform@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Victor",
+      "cnpj": "00.000.000/0022-22",
+      "endereco": "Rua Victor, 22",
+      "cidade": "Victor City",
+      "estado": "SP",
+      "cep": "22220-022",
+      "nomeDoRepresentante": "Fernanda Victor",
+      "emailDoRepresentante": "taka.docusign+victor@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Whiskey",
+      "cnpj": "00.000.000/0023-23",
+      "endereco": "Rua Whiskey, 23",
+      "cidade": "Whiskey City",
+      "estado": "SE",
+      "cep": "23230-023",
+      "nomeDoRepresentante": "Paulo Whiskey",
+      "emailDoRepresentante": "taka.docusign+whiskey@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "X-ray",
+      "cnpj": "00.000.000/0024-24",
+      "endereco": "Rua X-ray, 24",
+      "cidade": "X-ray City",
+      "estado": "TO",
+      "cep": "24240-024",
+      "nomeDoRepresentante": "Patrícia X-ray",
+      "emailDoRepresentante": "taka.docusign+xray@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Yankee",
+      "cnpj": "00.000.000/0025-25",
+      "endereco": "Rua Yankee, 25",
+      "cidade": "Yankee City",
+      "estado": "AC",
+      "cep": "25250-025",
+      "nomeDoRepresentante": "Thiago Yankee",
+      "emailDoRepresentante": "taka.docusign+yankee@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Zulu",
+      "cnpj": "00.000.000/0026-26",
+      "endereco": "Rua Zulu, 26",
+      "cidade": "Zulu City",
+      "estado": "AL",
+      "cep": "26262-626",
+      "nomeDoRepresentante": "Juliana Zulu",
+      "emailDoRepresentante": "taka.docusign+zulu@gmail.com"
+    },
+    {
+      "nomeDaEmpresa": "Taka Corp",
+      "cnpj": "12.345.678/0001-99",
+      "endereco": "Rua Taka Teste, 123",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "12345-678",
+      "nomeDoRepresentante": "André Takahama",
+      "emailDoRepresentante": "taka.docusign+takacorp@gmail.com"
+    }
+  ]
+}

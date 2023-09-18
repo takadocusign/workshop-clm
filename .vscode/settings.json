@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/34fbf2a4-ea83-405a-a50f-6e53dacca895/resourceGroups/SE-LATAM/providers/Microsoft.Web/sites/taka-clm-provider",
+    "appService.deploySubpath": "."
+}
